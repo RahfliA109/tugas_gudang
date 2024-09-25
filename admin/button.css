@@ -1,0 +1,19 @@
+button {
+  width: auto;
+  height: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: black;
+  border-radius: 10px;
+  padding: 12px;
+}
+
+a button {
+  text-decoration: none;
+  color: orangered;
+}
+
+button:hover {
+  background-color: grey;
+  color: white;
+}
